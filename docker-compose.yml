@@ -1,0 +1,7 @@
+services:
+  node:
+    build :
+      context: ./
+      dockerfile: ./.docker/node.Dockerfile
+    ports:
+      - "3000:3000"

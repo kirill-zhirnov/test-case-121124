@@ -1,0 +1,70 @@
+openapi: 3.0.3
+info:
+  title: PNO Test Case
+  version: 1.0.0
+servers:
+  - url: 'http://localhost:3000'
+paths:
+  /customers/{customerId}/trailers:
+    get:
+      summary: List rented trailers for a customer.
+      parameters:
+        - name: customerId
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: type
+          in: query
+          description: Trailer type
+          schema:
+            type: string
+        - name: page
+          in: query
+          description: Page for Pagination
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+
+  /customers/{customerId}/trailers/{trailerId}:
+    get:
+      summary: Get a specific rented trailer of a customer.
+      parameters:
+        - name: customerId
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: trailerId
+          in: path
+          required: true
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK
+
+  /owners/{ownerId}/trailers:
+    get:
+      summary: List all owned trailers for an owner.
+      parameters:
+        - name: ownerId
+          in: path
+          required: true
+          schema:
+            type: integer
+        - name: vin
+          in: query
+          description: Trailer vin or part of it
+          schema:
+            type: string
+        - name: page
+          in: query
+          description: Page for Pagination
+          schema:
+            type: integer
+      responses:
+        '200':
+          description: OK

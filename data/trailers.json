@@ -1,0 +1,2690 @@
+[
+  {
+    "asset_id": 11283,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000880499"
+  },
+  {
+    "asset_id": 13415,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "AHXTKP02H4022407"
+  },
+  {
+    "asset_id": 30354,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000791472"
+  },
+  {
+    "asset_id": 13725,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809340"
+  },
+  {
+    "asset_id": 19479,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003354496"
+  },
+  {
+    "asset_id": 4991,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005199837"
+  },
+  {
+    "asset_id": 18250,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302777"
+  },
+  {
+    "asset_id": 12703,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAHKN34635"
+  },
+  {
+    "asset_id": 9182,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000833568"
+  },
+  {
+    "asset_id": 17923,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000882979"
+  },
+  {
+    "asset_id": 16032,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "YWQCPA218KF037667"
+  },
+  {
+    "asset_id": 135,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000879452"
+  },
+  {
+    "asset_id": 282,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000807922"
+  },
+  {
+    "asset_id": 899,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809342"
+  },
+  {
+    "asset_id": 17451,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005247067"
+  },
+  {
+    "asset_id": 21052,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000833574"
+  },
+  {
+    "asset_id": 16544,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000887173"
+  },
+  {
+    "asset_id": 23113,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005145550"
+  },
+  {
+    "asset_id": 30383,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800940"
+  },
+  {
+    "asset_id": 3053,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXH0001534"
+  },
+  {
+    "asset_id": 31975,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800893"
+  },
+  {
+    "asset_id": 16930,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000851740"
+  },
+  {
+    "asset_id": 21746,
+    "owner_id": 101,
+    "model": "dolly",
+    "vin": "URAPZ000000880460"
+  },
+  {
+    "asset_id": 13754,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000813209"
+  },
+  {
+    "asset_id": 10303,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005259749"
+  },
+  {
+    "asset_id": 4076,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801066"
+  },
+  {
+    "asset_id": 6240,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000849927"
+  },
+  {
+    "asset_id": 5923,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000857594"
+  },
+  {
+    "asset_id": 3793,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000804600"
+  },
+  {
+    "asset_id": 5604,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXL0000527"
+  },
+  {
+    "asset_id": 7518,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854445"
+  },
+  {
+    "asset_id": 11825,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000002012982"
+  },
+  {
+    "asset_id": 31834,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000001020998"
+  },
+  {
+    "asset_id": 31916,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809400"
+  },
+  {
+    "asset_id": 30062,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000795528"
+  },
+  {
+    "asset_id": 28006,
+    "owner_id": 105,
+    "model": "box",
+    "vin": "TKLY000000922834"
+  },
+  {
+    "asset_id": 422,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000922636"
+  },
+  {
+    "asset_id": 8479,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807767"
+  },
+  {
+    "asset_id": 32519,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841600"
+  },
+  {
+    "asset_id": 27750,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000807815"
+  },
+  {
+    "asset_id": 5583,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "PLOA0000005227110"
+  },
+  {
+    "asset_id": 725,
+    "owner_id": 104,
+    "model": "container",
+    "vin": "TKLY000000801452"
+  },
+  {
+    "asset_id": 7986,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "YWQCPA218KF037681"
+  },
+  {
+    "asset_id": 30562,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAHKN34598"
+  },
+  {
+    "asset_id": 3891,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005171783"
+  },
+  {
+    "asset_id": 3957,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315544"
+  },
+  {
+    "asset_id": 30948,
+    "owner_id": 105,
+    "model": "movingfloor",
+    "vin": "SFYK0C10017034919"
+  },
+  {
+    "asset_id": 10568,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000988430"
+  },
+  {
+    "asset_id": 12342,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000989903"
+  },
+  {
+    "asset_id": 22205,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000992565"
+  },
+  {
+    "asset_id": 15903,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005202087"
+  },
+  {
+    "asset_id": 17340,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302902"
+  },
+  {
+    "asset_id": 29522,
+    "owner_id": 101,
+    "model": "dolly",
+    "vin": "URAPZ000001022407"
+  },
+  {
+    "asset_id": 30407,
+    "owner_id": 102,
+    "model": "container",
+    "vin": "AHXTKP03K5022417"
+  },
+  {
+    "asset_id": 32628,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003277565"
+  },
+  {
+    "asset_id": 1381,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "AHXT1BANJKE34730"
+  },
+  {
+    "asset_id": 13385,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000880472"
+  },
+  {
+    "asset_id": 22853,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "PLOA0000003292245"
+  },
+  {
+    "asset_id": 5446,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003290901"
+  },
+  {
+    "asset_id": 20871,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000001019173"
+  },
+  {
+    "asset_id": 21361,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284585"
+  },
+  {
+    "asset_id": 4317,
+    "owner_id": 104,
+    "model": "container",
+    "vin": "TKLY000000877525"
+  },
+  {
+    "asset_id": 29875,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000849916"
+  },
+  {
+    "asset_id": 22764,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005201985"
+  },
+  {
+    "asset_id": 17510,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787069"
+  },
+  {
+    "asset_id": 3536,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "PLOA0000005199759"
+  },
+  {
+    "asset_id": 19232,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801020"
+  },
+  {
+    "asset_id": 21584,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315319"
+  },
+  {
+    "asset_id": 26711,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854411"
+  },
+  {
+    "asset_id": 15153,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005212145"
+  },
+  {
+    "asset_id": 13176,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003282476"
+  },
+  {
+    "asset_id": 29593,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000714715"
+  },
+  {
+    "asset_id": 12946,
+    "owner_id": 102,
+    "model": "box",
+    "vin": "PLOA0000005239830"
+  },
+  {
+    "asset_id": 13959,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854492"
+  },
+  {
+    "asset_id": 27539,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854432"
+  },
+  {
+    "asset_id": 1236,
+    "owner_id": 101,
+    "model": "dolly",
+    "vin": "AHXTYSP1FF032835"
+  },
+  {
+    "asset_id": 2516,
+    "owner_id": 106,
+    "model": "curtain",
+    "vin": "TKLY000000835138"
+  },
+  {
+    "asset_id": 25896,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "UN4EF24VBJN054161"
+  },
+  {
+    "asset_id": 29797,
+    "owner_id": 105,
+    "model": "container",
+    "vin": "TKLY000000976900"
+  },
+  {
+    "asset_id": 3828,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000001021201"
+  },
+  {
+    "asset_id": 29267,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXJ0000448"
+  },
+  {
+    "asset_id": 848,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "UN4EF24VBJN054154"
+  },
+  {
+    "asset_id": 2279,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000795531"
+  },
+  {
+    "asset_id": 23625,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801165"
+  },
+  {
+    "asset_id": 19591,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000989864"
+  },
+  {
+    "asset_id": 2308,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005199836"
+  },
+  {
+    "asset_id": 6085,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000001020994"
+  },
+  {
+    "asset_id": 12482,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000706222"
+  },
+  {
+    "asset_id": 13500,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005212852"
+  },
+  {
+    "asset_id": 169,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "AHXT2SBNMKN37108"
+  },
+  {
+    "asset_id": 11212,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000879453"
+  },
+  {
+    "asset_id": 10210,
+    "owner_id": 106,
+    "model": "curtain",
+    "vin": "TKLY000000992616"
+  },
+  {
+    "asset_id": 20313,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854538"
+  },
+  {
+    "asset_id": 11107,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000841745"
+  },
+  {
+    "asset_id": 28434,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854595"
+  },
+  {
+    "asset_id": 30339,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000849921"
+  },
+  {
+    "asset_id": 3566,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSJN054104"
+  },
+  {
+    "asset_id": 3886,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "TKLY000000918829"
+  },
+  {
+    "asset_id": 13538,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284603"
+  },
+  {
+    "asset_id": 3150,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284550"
+  },
+  {
+    "asset_id": 14591,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000789020"
+  },
+  {
+    "asset_id": 19135,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "UN4EF24VBJN052847"
+  },
+  {
+    "asset_id": 13934,
+    "owner_id": 104,
+    "model": "reefer",
+    "vin": "PLOA0000005202000"
+  },
+  {
+    "asset_id": 20726,
+    "owner_id": 101,
+    "model": "movingfloor",
+    "vin": "XL9KRAKER17069451"
+  },
+  {
+    "asset_id": 19090,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276553"
+  },
+  {
+    "asset_id": 19224,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000001014475"
+  },
+  {
+    "asset_id": 28212,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000005280800"
+  },
+  {
+    "asset_id": 31031,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000797655"
+  },
+  {
+    "asset_id": 25978,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "VCBUSLARTMFZT0905"
+  },
+  {
+    "asset_id": 16110,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "AHXT2BBNJKE35169"
+  },
+  {
+    "asset_id": 15916,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "AHXT2SAAKKE35630"
+  },
+  {
+    "asset_id": 12177,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809345"
+  },
+  {
+    "asset_id": 30050,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "AHXTKD02M6022077"
+  },
+  {
+    "asset_id": 25530,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2SAAJKN34769"
+  },
+  {
+    "asset_id": 19638,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315292"
+  },
+  {
+    "asset_id": 3269,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801162"
+  },
+  {
+    "asset_id": 17305,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "PLOA0000003296626"
+  },
+  {
+    "asset_id": 2209,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005240878"
+  },
+  {
+    "asset_id": 17478,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787058"
+  },
+  {
+    "asset_id": 7180,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005206765"
+  },
+  {
+    "asset_id": 3231,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000773800"
+  },
+  {
+    "asset_id": 25349,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000856978"
+  },
+  {
+    "asset_id": 25037,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000001068437"
+  },
+  {
+    "asset_id": 26394,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXJ0000456"
+  },
+  {
+    "asset_id": 25203,
+    "owner_id": 104,
+    "model": "container",
+    "vin": "XRYDTECFTJ0000318"
+  },
+  {
+    "asset_id": 4327,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005191008"
+  },
+  {
+    "asset_id": 32230,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003297690"
+  },
+  {
+    "asset_id": 17878,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003290899"
+  },
+  {
+    "asset_id": 26522,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXL0001235"
+  },
+  {
+    "asset_id": 25859,
+    "owner_id": 105,
+    "model": "dolly",
+    "vin": "URAPZ000000876550"
+  },
+  {
+    "asset_id": 31941,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000657427"
+  },
+  {
+    "asset_id": 28118,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000891906"
+  },
+  {
+    "asset_id": 12015,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000724052"
+  },
+  {
+    "asset_id": 22697,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "PLOA0000005240369"
+  },
+  {
+    "asset_id": 20704,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000790400"
+  },
+  {
+    "asset_id": 32156,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000856984"
+  },
+  {
+    "asset_id": 19502,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "TKLY000001023070"
+  },
+  {
+    "asset_id": 16221,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005263169"
+  },
+  {
+    "asset_id": 31835,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807861"
+  },
+  {
+    "asset_id": 32658,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000005198557"
+  },
+  {
+    "asset_id": 24894,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000856148"
+  },
+  {
+    "asset_id": 6190,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "TKLY000000824217"
+  },
+  {
+    "asset_id": 15668,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005199896"
+  },
+  {
+    "asset_id": 8391,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800931"
+  },
+  {
+    "asset_id": 13378,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAJKN34865"
+  },
+  {
+    "asset_id": 6359,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809413"
+  },
+  {
+    "asset_id": 20531,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000901725"
+  },
+  {
+    "asset_id": 5991,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000887157"
+  },
+  {
+    "asset_id": 6750,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000970144"
+  },
+  {
+    "asset_id": 20119,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2SBANKE37667"
+  },
+  {
+    "asset_id": 30351,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000854296"
+  },
+  {
+    "asset_id": 29948,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005217190"
+  },
+  {
+    "asset_id": 17225,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801063"
+  },
+  {
+    "asset_id": 28880,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000001021006"
+  },
+  {
+    "asset_id": 10848,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276587"
+  },
+  {
+    "asset_id": 24679,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "VCBUSLARTKFZT0291"
+  },
+  {
+    "asset_id": 12695,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003292256"
+  },
+  {
+    "asset_id": 16738,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000803704"
+  },
+  {
+    "asset_id": 11721,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315539"
+  },
+  {
+    "asset_id": 29596,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000988079"
+  },
+  {
+    "asset_id": 27588,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000800996"
+  },
+  {
+    "asset_id": 5829,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000787109"
+  },
+  {
+    "asset_id": 24801,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276519"
+  },
+  {
+    "asset_id": 14625,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSGN049255"
+  },
+  {
+    "asset_id": 12800,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302733"
+  },
+  {
+    "asset_id": 27624,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302805"
+  },
+  {
+    "asset_id": 2662,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000786066"
+  },
+  {
+    "asset_id": 1348,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000853894"
+  },
+  {
+    "asset_id": 17597,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841631"
+  },
+  {
+    "asset_id": 4557,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXK0000214"
+  },
+  {
+    "asset_id": 32544,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000001021199"
+  },
+  {
+    "asset_id": 10015,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807938"
+  },
+  {
+    "asset_id": 2041,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807874"
+  },
+  {
+    "asset_id": 21526,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276538"
+  },
+  {
+    "asset_id": 11597,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "AHXT1BANJKE35332"
+  },
+  {
+    "asset_id": 3915,
+    "owner_id": 106,
+    "model": "curtain",
+    "vin": "TKLY000000841329"
+  },
+  {
+    "asset_id": 30748,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "AHXTKD02M6022375"
+  },
+  {
+    "asset_id": 1908,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000988348"
+  },
+  {
+    "asset_id": 14953,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000854346"
+  },
+  {
+    "asset_id": 24240,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787023"
+  },
+  {
+    "asset_id": 4061,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000879448"
+  },
+  {
+    "asset_id": 19511,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "PLOA0000005279227"
+  },
+  {
+    "asset_id": 9547,
+    "owner_id": 105,
+    "model": "box",
+    "vin": "TKLY000000865994"
+  },
+  {
+    "asset_id": 27667,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000879456"
+  },
+  {
+    "asset_id": 13955,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSGN047200"
+  },
+  {
+    "asset_id": 25758,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "UN4EF24CSKN056075"
+  },
+  {
+    "asset_id": 24833,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807881"
+  },
+  {
+    "asset_id": 11678,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000001021479"
+  },
+  {
+    "asset_id": 6347,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000701832"
+  },
+  {
+    "asset_id": 14161,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "AHXTKP03J4022797"
+  },
+  {
+    "asset_id": 26767,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000922664"
+  },
+  {
+    "asset_id": 16579,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005257732"
+  },
+  {
+    "asset_id": 18412,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005241184"
+  },
+  {
+    "asset_id": 2894,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807804"
+  },
+  {
+    "asset_id": 10855,
+    "owner_id": 101,
+    "model": "movingfloor",
+    "vin": "XL9KRAKER19069250"
+  },
+  {
+    "asset_id": 30216,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "VF9DS0003M0024006"
+  },
+  {
+    "asset_id": 26484,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000854302"
+  },
+  {
+    "asset_id": 5783,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSGN047189"
+  },
+  {
+    "asset_id": 12198,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005199878"
+  },
+  {
+    "asset_id": 19862,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854577"
+  },
+  {
+    "asset_id": 23776,
+    "owner_id": 103,
+    "model": "flatbed",
+    "vin": "TKLY000000857571"
+  },
+  {
+    "asset_id": 19357,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000808052"
+  },
+  {
+    "asset_id": 31508,
+    "owner_id": 101,
+    "model": "flatbed",
+    "vin": "TKLY000000569169"
+  },
+  {
+    "asset_id": 12417,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000884693"
+  },
+  {
+    "asset_id": 23806,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005263159"
+  },
+  {
+    "asset_id": 4458,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000788972"
+  },
+  {
+    "asset_id": 23514,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAHKN34600"
+  },
+  {
+    "asset_id": 29397,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787021"
+  },
+  {
+    "asset_id": 29443,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284565"
+  },
+  {
+    "asset_id": 21138,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000970147"
+  },
+  {
+    "asset_id": 12289,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854508"
+  },
+  {
+    "asset_id": 27237,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005217172"
+  },
+  {
+    "asset_id": 23915,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284530"
+  },
+  {
+    "asset_id": 3799,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXK0000211"
+  },
+  {
+    "asset_id": 21167,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000760249"
+  },
+  {
+    "asset_id": 9811,
+    "owner_id": 102,
+    "model": "box",
+    "vin": "AHXTKP03M6022061"
+  },
+  {
+    "asset_id": 23701,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "TKLY000000989489"
+  },
+  {
+    "asset_id": 23455,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAHKN34637"
+  },
+  {
+    "asset_id": 12832,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000988380"
+  },
+  {
+    "asset_id": 4958,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000970155"
+  },
+  {
+    "asset_id": 20250,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "PLOA0000005266994"
+  },
+  {
+    "asset_id": 32534,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315528"
+  },
+  {
+    "asset_id": 18789,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000851750"
+  },
+  {
+    "asset_id": 6383,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000800844"
+  },
+  {
+    "asset_id": 14321,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005190102"
+  },
+  {
+    "asset_id": 4643,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809392"
+  },
+  {
+    "asset_id": 31200,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005217161"
+  },
+  {
+    "asset_id": 31457,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "AHXTKP03K5022148"
+  },
+  {
+    "asset_id": 2627,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000001021949"
+  },
+  {
+    "asset_id": 21772,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000001026525"
+  },
+  {
+    "asset_id": 123,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000005198569"
+  },
+  {
+    "asset_id": 3091,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276554"
+  },
+  {
+    "asset_id": 22287,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2SAAKKN35709"
+  },
+  {
+    "asset_id": 8936,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841641"
+  },
+  {
+    "asset_id": 683,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000657446"
+  },
+  {
+    "asset_id": 32176,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "VF9DS0003M0024003"
+  },
+  {
+    "asset_id": 14462,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000676930"
+  },
+  {
+    "asset_id": 12232,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000848778"
+  },
+  {
+    "asset_id": 28456,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "UN4EF24CSJN052861"
+  },
+  {
+    "asset_id": 22329,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "AHXTKP03M5022991"
+  },
+  {
+    "asset_id": 5891,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT1BAAJKN34779"
+  },
+  {
+    "asset_id": 32164,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302856"
+  },
+  {
+    "asset_id": 11881,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315313"
+  },
+  {
+    "asset_id": 25431,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "PLOA0000003315224"
+  },
+  {
+    "asset_id": 9274,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "TKLY000000813856"
+  },
+  {
+    "asset_id": 13319,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000821028"
+  },
+  {
+    "asset_id": 24289,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276585"
+  },
+  {
+    "asset_id": 7523,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003279827"
+  },
+  {
+    "asset_id": 10110,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005225574"
+  },
+  {
+    "asset_id": 18042,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000813231"
+  },
+  {
+    "asset_id": 6396,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276571"
+  },
+  {
+    "asset_id": 27569,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "XL9KRAKER19069229"
+  },
+  {
+    "asset_id": 30792,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT1BAAJKE35214"
+  },
+  {
+    "asset_id": 5554,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807912"
+  },
+  {
+    "asset_id": 30424,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302764"
+  },
+  {
+    "asset_id": 12960,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "URAPZ000000630656"
+  },
+  {
+    "asset_id": 16971,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000841671"
+  },
+  {
+    "asset_id": 30585,
+    "owner_id": 101,
+    "model": "dolly",
+    "vin": "URAPZ000000763562"
+  },
+  {
+    "asset_id": 23491,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000788993"
+  },
+  {
+    "asset_id": 3170,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302901"
+  },
+  {
+    "asset_id": 28496,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809352"
+  },
+  {
+    "asset_id": 20828,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000787106"
+  },
+  {
+    "asset_id": 14201,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "PLOA0000005279234"
+  },
+  {
+    "asset_id": 12684,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000854501"
+  },
+  {
+    "asset_id": 21201,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000790397"
+  },
+  {
+    "asset_id": 12825,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003285805"
+  },
+  {
+    "asset_id": 16666,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854428"
+  },
+  {
+    "asset_id": 24157,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284552"
+  },
+  {
+    "asset_id": 29528,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302866"
+  },
+  {
+    "asset_id": 5575,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000933056"
+  },
+  {
+    "asset_id": 26093,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000005229661"
+  },
+  {
+    "asset_id": 16590,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003260954"
+  },
+  {
+    "asset_id": 3477,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000880247"
+  },
+  {
+    "asset_id": 26583,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000810295"
+  },
+  {
+    "asset_id": 15197,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000788996"
+  },
+  {
+    "asset_id": 11586,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807747"
+  },
+  {
+    "asset_id": 23903,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302834"
+  },
+  {
+    "asset_id": 26521,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000912608"
+  },
+  {
+    "asset_id": 2202,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302735"
+  },
+  {
+    "asset_id": 30647,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000676688"
+  },
+  {
+    "asset_id": 18504,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "TKLY000000753801"
+  },
+  {
+    "asset_id": 22221,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003299156"
+  },
+  {
+    "asset_id": 2926,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000988062"
+  },
+  {
+    "asset_id": 1100,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003279831"
+  },
+  {
+    "asset_id": 14267,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "UN4EF24VBJN054118"
+  },
+  {
+    "asset_id": 3486,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801004"
+  },
+  {
+    "asset_id": 22574,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000880519"
+  },
+  {
+    "asset_id": 24178,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801194"
+  },
+  {
+    "asset_id": 10599,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005225725"
+  },
+  {
+    "asset_id": 74,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000676923"
+  },
+  {
+    "asset_id": 16995,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005199857"
+  },
+  {
+    "asset_id": 3472,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807862"
+  },
+  {
+    "asset_id": 17185,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "TKLY000000948712"
+  },
+  {
+    "asset_id": 20569,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT1BAAHKN34690"
+  },
+  {
+    "asset_id": 31575,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000762878"
+  },
+  {
+    "asset_id": 16031,
+    "owner_id": 106,
+    "model": "curtain",
+    "vin": "TKLY000000835104"
+  },
+  {
+    "asset_id": 4682,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005212843"
+  },
+  {
+    "asset_id": 13722,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003296716"
+  },
+  {
+    "asset_id": 3424,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000760225"
+  },
+  {
+    "asset_id": 27524,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000922619"
+  },
+  {
+    "asset_id": 22016,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005225543"
+  },
+  {
+    "asset_id": 31458,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000790388"
+  },
+  {
+    "asset_id": 16364,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000989810"
+  },
+  {
+    "asset_id": 7217,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000578606"
+  },
+  {
+    "asset_id": 16391,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807849"
+  },
+  {
+    "asset_id": 2692,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000988426"
+  },
+  {
+    "asset_id": 12368,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "UN4EF24NBHN050929"
+  },
+  {
+    "asset_id": 7546,
+    "owner_id": 101,
+    "model": "dolly",
+    "vin": "URAPZ000001019144"
+  },
+  {
+    "asset_id": 22646,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801059"
+  },
+  {
+    "asset_id": 18063,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000001012786"
+  },
+  {
+    "asset_id": 11088,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000901733"
+  },
+  {
+    "asset_id": 18871,
+    "owner_id": 105,
+    "model": "dolly",
+    "vin": "URAPZ000000810992"
+  },
+  {
+    "asset_id": 28705,
+    "owner_id": 104,
+    "model": "container",
+    "vin": "TKLY000000809743"
+  },
+  {
+    "asset_id": 10442,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807824"
+  },
+  {
+    "asset_id": 4973,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "UN4EF24VBJN052856"
+  },
+  {
+    "asset_id": 16159,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809399"
+  },
+  {
+    "asset_id": 19914,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "AHXTYSP1JF035237"
+  },
+  {
+    "asset_id": 26224,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000891903"
+  },
+  {
+    "asset_id": 24562,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSJN054114"
+  },
+  {
+    "asset_id": 8159,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "TKLY000000753800"
+  },
+  {
+    "asset_id": 518,
+    "owner_id": 101,
+    "model": "movingfloor",
+    "vin": "XL9KRAKER19069076"
+  },
+  {
+    "asset_id": 5036,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000789012"
+  },
+  {
+    "asset_id": 189,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302890"
+  },
+  {
+    "asset_id": 14333,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000854321"
+  },
+  {
+    "asset_id": 3569,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000855821"
+  },
+  {
+    "asset_id": 723,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003328028"
+  },
+  {
+    "asset_id": 13006,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003279865"
+  },
+  {
+    "asset_id": 9456,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801187"
+  },
+  {
+    "asset_id": 18577,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT1BAAJKE35215"
+  },
+  {
+    "asset_id": 23395,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841551"
+  },
+  {
+    "asset_id": 4497,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXTKP03K4022979"
+  },
+  {
+    "asset_id": 23291,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841506"
+  },
+  {
+    "asset_id": 12043,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807806"
+  },
+  {
+    "asset_id": 9407,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854449"
+  },
+  {
+    "asset_id": 28907,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800894"
+  },
+  {
+    "asset_id": 9293,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800911"
+  },
+  {
+    "asset_id": 2952,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000801028"
+  },
+  {
+    "asset_id": 16552,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807846"
+  },
+  {
+    "asset_id": 19462,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000880491"
+  },
+  {
+    "asset_id": 30170,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "TKLY000000824215"
+  },
+  {
+    "asset_id": 7908,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000714739"
+  },
+  {
+    "asset_id": 4475,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005243793"
+  },
+  {
+    "asset_id": 21725,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000666983"
+  },
+  {
+    "asset_id": 13815,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003315416"
+  },
+  {
+    "asset_id": 14621,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000852231"
+  },
+  {
+    "asset_id": 18477,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "PLOA0000005267004"
+  },
+  {
+    "asset_id": 28806,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000922590"
+  },
+  {
+    "asset_id": 20664,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005247053"
+  },
+  {
+    "asset_id": 27766,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005243792"
+  },
+  {
+    "asset_id": 5639,
+    "owner_id": 106,
+    "model": "box",
+    "vin": "PLOA0000005266914"
+  },
+  {
+    "asset_id": 11331,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807786"
+  },
+  {
+    "asset_id": 13834,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2SAAKKN35545"
+  },
+  {
+    "asset_id": 18286,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801156"
+  },
+  {
+    "asset_id": 15904,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809422"
+  },
+  {
+    "asset_id": 30534,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSJN054115"
+  },
+  {
+    "asset_id": 7567,
+    "owner_id": 104,
+    "model": "reefer",
+    "vin": "PLOA0000005201990"
+  },
+  {
+    "asset_id": 16740,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003279855"
+  },
+  {
+    "asset_id": 17055,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302797"
+  },
+  {
+    "asset_id": 11592,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315331"
+  },
+  {
+    "asset_id": 11325,
+    "owner_id": 104,
+    "model": "box",
+    "vin": "PLOA0000005217156"
+  },
+  {
+    "asset_id": 17927,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000879442"
+  },
+  {
+    "asset_id": 10670,
+    "owner_id": 105,
+    "model": "box",
+    "vin": "AHXT2SAGHKE34414"
+  },
+  {
+    "asset_id": 15816,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005199738"
+  },
+  {
+    "asset_id": 22453,
+    "owner_id": 102,
+    "model": "reefer",
+    "vin": "PLOA0000005200701"
+  },
+  {
+    "asset_id": 2943,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000808019"
+  },
+  {
+    "asset_id": 5693,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXJ0000451"
+  },
+  {
+    "asset_id": 31779,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000917893"
+  },
+  {
+    "asset_id": 9059,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809421"
+  },
+  {
+    "asset_id": 8029,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000988436"
+  },
+  {
+    "asset_id": 12411,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003276575"
+  },
+  {
+    "asset_id": 25689,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800927"
+  },
+  {
+    "asset_id": 4955,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302903"
+  },
+  {
+    "asset_id": 22083,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284578"
+  },
+  {
+    "asset_id": 6677,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "AHXT2BBAJKN35316"
+  },
+  {
+    "asset_id": 24729,
+    "owner_id": 105,
+    "model": "movingfloor",
+    "vin": "SFYK0C10017034912"
+  },
+  {
+    "asset_id": 28911,
+    "owner_id": 105,
+    "model": "box",
+    "vin": "AHXT2SAGHKE34419"
+  },
+  {
+    "asset_id": 2643,
+    "owner_id": 106,
+    "model": "curtain",
+    "vin": "TKLY000000992622"
+  },
+  {
+    "asset_id": 27181,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800910"
+  },
+  {
+    "asset_id": 23442,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000787108"
+  },
+  {
+    "asset_id": 15632,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801158"
+  },
+  {
+    "asset_id": 21592,
+    "owner_id": 106,
+    "model": "box",
+    "vin": "PLOA0000005266929"
+  },
+  {
+    "asset_id": 27929,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000848425"
+  },
+  {
+    "asset_id": 11128,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787084"
+  },
+  {
+    "asset_id": 27754,
+    "owner_id": 102,
+    "model": "dolly",
+    "vin": "YWQCPA218KF037720"
+  },
+  {
+    "asset_id": 11191,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005190999"
+  },
+  {
+    "asset_id": 9184,
+    "owner_id": 103,
+    "model": "box",
+    "vin": "UN4EF24VBMN062010"
+  },
+  {
+    "asset_id": 8664,
+    "owner_id": 101,
+    "model": "flatbed",
+    "vin": "TKLY000000591712"
+  },
+  {
+    "asset_id": 18749,
+    "owner_id": 101,
+    "model": "reefer",
+    "vin": "PLOA0000005145554"
+  },
+  {
+    "asset_id": 6420,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000786993"
+  },
+  {
+    "asset_id": 16245,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000886609"
+  },
+  {
+    "asset_id": 19485,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000809414"
+  },
+  {
+    "asset_id": 5884,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000856149"
+  },
+  {
+    "asset_id": 26563,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801173"
+  },
+  {
+    "asset_id": 5041,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000760261"
+  },
+  {
+    "asset_id": 12510,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003315501"
+  },
+  {
+    "asset_id": 21416,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000841640"
+  },
+  {
+    "asset_id": 501,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807871"
+  },
+  {
+    "asset_id": 15890,
+    "owner_id": 106,
+    "model": "box",
+    "vin": "PLOA0000005283423"
+  },
+  {
+    "asset_id": 5613,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800906"
+  },
+  {
+    "asset_id": 13035,
+    "owner_id": 104,
+    "model": "reefer",
+    "vin": "PLOA0000005201992"
+  },
+  {
+    "asset_id": 25503,
+    "owner_id": 104,
+    "model": "reefer",
+    "vin": "PLOA0000005216141"
+  },
+  {
+    "asset_id": 31797,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "PLOA0000003292212"
+  },
+  {
+    "asset_id": 6944,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "UN4EF24SKFN044610"
+  },
+  {
+    "asset_id": 12020,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000660611"
+  },
+  {
+    "asset_id": 20521,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000989878"
+  },
+  {
+    "asset_id": 28181,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000813239"
+  },
+  {
+    "asset_id": 13789,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807845"
+  },
+  {
+    "asset_id": 19221,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXK0000203"
+  },
+  {
+    "asset_id": 14044,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302847"
+  },
+  {
+    "asset_id": 16385,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000790396"
+  },
+  {
+    "asset_id": 22887,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000992640"
+  },
+  {
+    "asset_id": 25630,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807918"
+  },
+  {
+    "asset_id": 29192,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800896"
+  },
+  {
+    "asset_id": 30815,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000849932"
+  },
+  {
+    "asset_id": 22508,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "VF9DS0003L0024019"
+  },
+  {
+    "asset_id": 10871,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284533"
+  },
+  {
+    "asset_id": 19704,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787007"
+  },
+  {
+    "asset_id": 25891,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "PLOA0000003302759"
+  },
+  {
+    "asset_id": 18506,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000787049"
+  },
+  {
+    "asset_id": 8703,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000989902"
+  },
+  {
+    "asset_id": 31895,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000760193"
+  },
+  {
+    "asset_id": 25868,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000807939"
+  },
+  {
+    "asset_id": 31909,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003302886"
+  },
+  {
+    "asset_id": 17320,
+    "owner_id": 105,
+    "model": "reefer",
+    "vin": "PLOA0000002013670"
+  },
+  {
+    "asset_id": 30430,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000810296"
+  },
+  {
+    "asset_id": 2213,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000000970148"
+  },
+  {
+    "asset_id": 21930,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "UN4EF24SKFN045239"
+  },
+  {
+    "asset_id": 7375,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "TKLY000000854406"
+  },
+  {
+    "asset_id": 21765,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000891907"
+  },
+  {
+    "asset_id": 18167,
+    "owner_id": 105,
+    "model": "container",
+    "vin": "URAPZ000000721205"
+  },
+  {
+    "asset_id": 32416,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "MXIT300ZXJ0000474"
+  },
+  {
+    "asset_id": 2140,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003284536"
+  },
+  {
+    "asset_id": 11365,
+    "owner_id": 103,
+    "model": "movingfloor",
+    "vin": "VF9DS0003M0024057"
+  },
+  {
+    "asset_id": 16910,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "TKLY000000851737"
+  },
+  {
+    "asset_id": 24115,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "PLOA0000003296665"
+  },
+  {
+    "asset_id": 23966,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "UN4EF24CSJN054101"
+  },
+  {
+    "asset_id": 2607,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807926"
+  },
+  {
+    "asset_id": 22323,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000801203"
+  },
+  {
+    "asset_id": 18432,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000800909"
+  },
+  {
+    "asset_id": 12515,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000777628"
+  },
+  {
+    "asset_id": 32207,
+    "owner_id": 105,
+    "model": "curtain",
+    "vin": "TKLY000000702808"
+  },
+  {
+    "asset_id": 30435,
+    "owner_id": 102,
+    "model": "curtain",
+    "vin": "TKLY000000922658"
+  },
+  {
+    "asset_id": 15071,
+    "owner_id": 101,
+    "model": "curtain",
+    "vin": "TKLY000000807961"
+  },
+  {
+    "asset_id": 474,
+    "owner_id": 103,
+    "model": "reefer",
+    "vin": "PLOA0000005238292"
+  },
+  {
+    "asset_id": 24094,
+    "owner_id": 101,
+    "model": "container",
+    "vin": "UN4EF24SKFN044613"
+  },
+  {
+    "asset_id": 145,
+    "owner_id": 103,
+    "model": "curtain",
+    "vin": "PLOA0000003279826"
+  },
+  {
+    "asset_id": 14324,
+    "owner_id": 104,
+    "model": "curtain",
+    "vin": "TKLY000001026516"
+  },
+  {
+    "asset_id": 29610,
+    "owner_id": 101,
+    "model": "box",
+    "vin": "PLOA0000005154635"
+  }
+]
